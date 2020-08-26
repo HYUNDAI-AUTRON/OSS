@@ -12,8 +12,6 @@ Licenses:
 BSD 3-clause "New" or "Revised" License
 (lwIP 2.1.2)
 
-License: BSD-3-Clause
-
 Redistribution and use in source and binary forms, with or without modification,
  are permitted provided that the following conditions are met:
  .
