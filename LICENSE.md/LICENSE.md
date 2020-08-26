@@ -6,8 +6,7 @@ Phase: DEVELOPMENT
 Distribution: EXTERNAL
 
 Components: 
-b_pf_autosar_cdd_FBL_common
-b_pf_autosar_cdd_FBL_spc58x_ethernet
+b_pf_autosar_cdd_FBL_common, b_pf_autosar_cdd_FBL_spc58x_ethernet
 
 Licenses: 
 BSD 3-clause "New" or "Revised" License
